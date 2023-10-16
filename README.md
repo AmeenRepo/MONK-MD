@@ -21,7 +21,7 @@ AMEEN-SER MONK-MD BOMBING BOT
 
  FORK THE REPOSITORY =>
     <br>
-<a href="https://github.com/AmeenRepo/MONK-MD/fork"><img title="AMEEN-SER" src="https://img.shields.io/badge/FORK?color=yellow&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AmeenRepo/MONK-MD/fork"><img title="AMEEN-SER" src="https://img.shields.io/badge/github?color=yellow&style=for-the-badge&logo=stackshare"></a>
 
 #### `NO NEED TO SCAN QR CODE PAIRING CODE ADDED(you will get it after running the commands)`
 
