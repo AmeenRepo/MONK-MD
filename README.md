@@ -1,6 +1,6 @@
    # MONK MD BOMBING BOT
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=santum&size=50&pause=1000&color=green&center=true&width=910&height=100&lines=I'M+Monk-MD;Multi+Divice+Whatsapp+BOMBING+BOT;Coded+By+AMEEN SER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=santum&size=50&pause=1000&color=green&center=true&width=910&height=100&lines=I'M+MONK+MD;MULTI+FUNCTIONAL +WAR+BOT;CODED+BY+AMEEN SER" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/@">
