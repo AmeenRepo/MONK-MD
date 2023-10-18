@@ -22,11 +22,11 @@ const { addPremiumUser, getPremiumExpired, getPremiumPosition, expiredCheck, che
 const { fetchBuffer, buffergif } = require("./lib/myfunc2")
 
 //bug database
-const { monk-war1 } = require('./AMEEN-SER/monk-war1')
-const { monk-war2 } = require('./AMEEN-SER/monk-war2')
-const { monk-war3 } = require('./AMEEN-SER/monk-war3')
-const { monk-war4 } = require('./AMEEN-SER/monk-war4')
-const { monk-war5 } = require('./AMEEN-SER/monk-war5')
+const { monkwar1 } = require('./AMEEN-SER/monkwar1')
+const { monkwar2 } = require('./AMEEN-SER/monkwar2')
+const { monkwar3 } = require('./AMEEN-SER/monkwar3')
+const { monkwar4 } = require('./AMEEN-SER/monkwar4')
+const { monkwar5 } = require('./AMEEN-SER/monkwar5')
 
 //database
 let premium = JSON.parse(fs.readFileSync('./database/premium.json'))
@@ -1753,7 +1753,7 @@ if (!isPremium) return replygcxeon(mess.prem)
 if (!args[0]) return relygcxeon(`Use ${prefix+command} amount\nExample ${prefix+command} 5`)
 amount = `${encodeURI(text)}`
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = `${monk-war1}`
+const xeonybug1 = `${monkwar1}`
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1774,7 +1774,7 @@ case 'pmbug' :{
 victim = text.split("|")[0]+'@s.whatsapp.net'
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = `${monk-war1}`
+const xeonybug1 = `${monkwar1}`
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1795,7 +1795,7 @@ await loading()
 victim = text.split("|")[0]+'@s.whatsapp.net'
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war2
+const xeonybug1 = monkwar2
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1817,7 +1817,7 @@ if (args.length < 1) return replygcxeon(`Use ${prefix+command} number\nExample $
 victim = text.split("|")[0]+'@s.whatsapp.net'
 amount = "15"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = `${monk-war1}`
+const xeonybug1 = `${monkwar1}`
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1838,7 +1838,7 @@ await loading()
 victim = text.split("|")[0]+'@s.whatsapp.net'
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war3
+const xeonybug1 = monkwar3
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1859,7 +1859,7 @@ await loading()
 victim = text.split("|")[0]+'@s.whatsapp.net'
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war4
+const xeonybug1 = monkwar4
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1880,7 +1880,7 @@ await loading()
 victim = text.split("|")[0]+'@s.whatsapp.net'
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war2
+const xeonybug1 = monkwar2
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1927,7 +1927,7 @@ let result = args[0].split('https://chat.whatsapp.com/')[1]
 let xeongc = await XeonBotInc.groupAcceptInvite(result)
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = `${monk-war1}`
+const xeonybug1 = `${monkwar1}`
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1949,7 +1949,7 @@ let result = args[0].split('https://chat.whatsapp.com/')[1]
 let xeongc = await XeonBotInc.groupAcceptInvite(result)
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war5
+const xeonybug1 = monkwar5
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1971,7 +1971,7 @@ let result = args[0].split('https://chat.whatsapp.com/')[1]
 let xeongc = await XeonBotInc.groupAcceptInvite(result)
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war2
+const xeonybug1 = monkwar2
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -1993,7 +1993,7 @@ let result = args[0].split('https://chat.whatsapp.com/')[1]
 let xeongc = await haikal.groupAcceptInvite(result)
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war4
+const xeonybug1 = monkwar4
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -2015,7 +2015,7 @@ let result = args[0].split('https://chat.whatsapp.com/')[1]
 let xeongc = await XeonBotInc.groupAcceptInvite(result)
 amount = "30"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = monk-war3
+const xeonybug1 = monkwar3
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -2063,7 +2063,7 @@ let result = args[0].split('https://chat.whatsapp.com/')[1]
 let xeongc = await XeonBotInc.groupAcceptInvite(result)
 amount = "15"
 for (let i = 0; i < amount; i++) {
-const xeonybug1 = `${monk-war1}`
+const xeonybug1 = `${monkwar1}`
 var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage": {
 "callType": "2",
@@ -2085,7 +2085,7 @@ break
                 let xeonmenuoh = `${mono}Hello ${pushname}
 ${xeonytimewisher}
 
-≡𝙱𝚄𝙶 𝙼𝙴𝙽𝚄
+≡AMEEN SER
 amountbug <amount>
 pmbug <number>
 delaybug <number>
